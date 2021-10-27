@@ -26,7 +26,7 @@ Truth Table
 
 **Task 3:**
 
-![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Question/Task_3.png)
+Is it possible to make a 3-input NAND or NOR gate with 2-input NAND or NOR gates? Justify your answer
 
 Proof
 
