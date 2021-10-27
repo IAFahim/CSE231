@@ -100,6 +100,24 @@
     <comp lib="1" loc="(460,110)" name="NOT Gate"/>
     <comp lib="1" loc="(540,130)" name="AND Gate"/>
     <comp lib="1" loc="(550,240)" name="NOT Gate"/>
+    <comp lib="8" loc="(153,178)" name="Text">
+      <a name="text" val="A+B"/>
+    </comp>
+    <comp lib="8" loc="(157,75)" name="Text">
+      <a name="text" val="AB"/>
+    </comp>
+    <comp lib="8" loc="(158,278)" name="Text">
+      <a name="text" val="(A.B)'"/>
+    </comp>
+    <comp lib="8" loc="(432,281)" name="Text">
+      <a name="text" val="(A+B)'"/>
+    </comp>
+    <comp lib="8" loc="(514,94)" name="Text">
+      <a name="text" val="A^B"/>
+    </comp>
+    <comp lib="8" loc="(534,223)" name="Text">
+      <a name="text" val="A'"/>
+    </comp>
     <wire from="(190,110)" to="(230,110)"/>
     <wire from="(190,210)" to="(240,210)"/>
     <wire from="(190,310)" to="(200,310)"/>
