@@ -1,7 +1,7 @@
 # **Md. Ishtiaq Ahamed Fahim 2012518642**
 `CSE231.14L`
 
-#Task 1:
+## Task 1:
 ![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_1.png)
 
 Truth Table
@@ -16,8 +16,7 @@ Description And Discussion
 
 ![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Description.jpg)
 
-
-#Task 2:
+## Task 2:
 
 ![Q2](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_2.png)
 
@@ -33,8 +32,7 @@ Description And Discussion
 
 ![Task_2](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_2/Description.jpg)
 
-
-#task 3:
+## task 3:
 
 ![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_3.png)
 ![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_3_1.png)
@@ -51,10 +49,7 @@ Description And Discussion
 
 ![Task_3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_3/Description.jpg)
 
-
-
-
-#Task 4:
+## Task 4:
 
 Is it possible to make a 3-input NAND or NOR gate with 2-input NAND or NOR gates? Justify your answer
 ![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_4.png)
