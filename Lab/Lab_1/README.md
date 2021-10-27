@@ -6,15 +6,15 @@
 
 Truth Table
 
-![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Task_1_Truth_Table.jpg)
+![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Truth_Table.jpg)
 
 Logisim
 
-![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Task_1_Logisim.png)
+![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Logisim.png)
 
 Description And Discussion
 
-![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Task_1_Description.jpg)
+![Task_1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Description.jpg)
 
 
 #Task 2:
