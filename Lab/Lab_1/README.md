@@ -36,7 +36,7 @@ Proof
 
 Logisim
 
-![Task_3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_3/Logisim.jpg)
+![Task_3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_3/Logisim.png)
 
 Description
 
