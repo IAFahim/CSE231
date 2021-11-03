@@ -1,7 +1,7 @@
 # **Md. Ishtiaq Ahamed Fahim 2012518642**
 `CSE231.14L`
 
-## Task 2:
+## Task 1:
 ![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_2/Task_1/Question_1.png)
 
 Table
