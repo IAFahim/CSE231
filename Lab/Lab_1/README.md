@@ -2,7 +2,7 @@
 `CSE231.14L`
 
 ## Task 1:
-![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_1.png)
+![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Question_1.png)
 
 Truth Table
 
@@ -18,7 +18,7 @@ Description And Discussion
 
 ## Task 2:
 
-![Q2](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_2.png)
+![Q2](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_2/Question_2.png)
 
 Truth Table
 
@@ -34,8 +34,8 @@ Description And Discussion
 
 ## task 3:
 
-![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_3.png)
-![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_3_1.png)
+![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_3/Question_3.png)
+![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_3/Question_3.png)
 
 Truth Table
 
@@ -52,7 +52,7 @@ Description And Discussion
 ## Task 4:
 
 Is it possible to make a 3-input NAND or NOR gate with 2-input NAND or NOR gates? Justify your answer
-![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Questions/Task_4.png)
+![Q3](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_4/Question_4.png)
 
 Proof
 
