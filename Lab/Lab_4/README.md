@@ -1,9 +1,9 @@
 # **Md. Ishtiaq Ahamed Fahim 2012518642**
 `CSE231.14L`
 
-[comment]: <> (## Task 1:)
+## Task 1:
 
-[comment]: <> (![Q1]&#40;https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_1/Task_1/Question_1.png&#41;)
+![Q1](https://github.com/IAFahim/CSE231/blob/master/Lab/Lab_4/Task_1/Question_1.png)
 
 Logisim
 
