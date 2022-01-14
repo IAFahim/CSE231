@@ -4,7 +4,7 @@ __CSE231.14 Fall 2021: [Digital Logic](https://www.facebook.com/groups/126249459
 
 ### Validity
 
-![Validity](https://github.com/IAFahim/CSE231/tree/master/Lab/Validity/Lab_Marks.png)
+![Validity](https://github.com/IAFahim/CSE231/blob/master/Lab/Validity/Lab_Marks.png)
 
 # Circuit
 
